@@ -10,7 +10,7 @@ my_list.append(40)
 # Modify the element at index 1
 my_list[1] = 15
 
-# Create another list
+# Create another list list_2
 list_2 = [50, 60, 70]
 
 # Extend my_list with elements from list_2
